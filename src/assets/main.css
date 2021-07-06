@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Uchen&display=swap');
+
+h1,h2 {
+    font-family: 'Uchen', serif;
+}
+
+.flex {
+    display:flex;   
+}
+
+.navy--text {
+    color:navy!important
+}
+
+.primary--text {
+    color:#5f6f97
+}
